@@ -20,9 +20,10 @@
 </html>
 ```
 
-#### 2
+#### 2. HTML5新增元素
+- 用于构建页面的语义元素：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjYyODIxNCwxNDk3NDE2NjQyLC0zMT
+eyJoaXN0b3J5IjpbMTk0NTQzNTEwMCwxNDk3NDE2NjQyLC0zMT
 c4OTAwNjUsMTc5NDg0Njg5OSwtMzczMzkxMDg5LC0xMTE0Njgy
 OTU3XX0=
 -->
