@@ -24,10 +24,12 @@
 用于构建页面的语义元素：
 ```<article>、<aside>、<figcaption>、<figure>、<footer>、<header>、<hgroup>、<nav>、<secton>、<details>、<summary>```
 用于标识文本的语义元素：
-```<mark>、<>、<```
+```<mark>、<time>、<wbt>(以前就支持，但现在正式列入规范)```
+Web表单及交互：
+```<input>、<datalist```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTkxNTgwMyw1ODgwNDM1NTksMTQ5Nz
+eyJoaXN0b3J5IjpbMTc3NjAwNjk0OCw1ODgwNDM1NTksMTQ5Nz
 QxNjY0MiwtMzE3ODkwMDY1LDE3OTQ4NDY4OTksLTM3MzM5MTA4
 OSwtMTExNDY4Mjk1N119
 -->
