@@ -21,9 +21,9 @@
 ```
 
 #### 2. HTML5新增元素
-用于构建页面的语义元素：```<article>、<>、、、```
+用于构建页面的语义元素：```<article>、<aside>、<figcaption>、<>、<>、<>、<>、<>、<>、<>、<>、<>、```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MDQzNTU5LDE0OTc0MTY2NDIsLTMxNz
-g5MDA2NSwxNzk0ODQ2ODk5LC0zNzMzOTEwODksLTExMTQ2ODI5
-NTddfQ==
+eyJoaXN0b3J5IjpbLTI4NDU1ODU4Myw1ODgwNDM1NTksMTQ5Nz
+QxNjY0MiwtMzE3ODkwMDY1LDE3OTQ4NDY4OTksLTM3MzM5MTA4
+OSwtMTExNDY4Mjk1N119
 -->
