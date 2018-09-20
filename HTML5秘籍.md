@@ -1,5 +1,5 @@
 ## HTML5秘籍
-<kbd>阅读笔记</kbd> <kbd>进度:P18/P360 </kbd>
+<kbd>阅读笔记</kbd> <kbd>进度:P19/P360 </kbd>
 
 #### 1. 在编写html时， 引用本地javascript时，时不时弹出“为帮助保护您的安全，Internet Explorer 已经限制此文件显示可能访问您计算机的活动内容。单击此处查看选项…” 框。
 解决办法只需要在引用javascript前添加注释语句 ```<!-- saved from url=(0014)about:internet --> ```。 但是格式空格要注意下：在```<!--与saved单词间只空一格空格，后面的internet单词与 -->```间至少空一格空格，推荐只空一格。否则还是会弹出来。
@@ -33,7 +33,7 @@
 - 非英语支持：
 ```<bdo>、<rp>、<rt>、<ruby>```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTU0NTA5Miw1ODgwNDM1NTksMTQ5Nz
-QxNjY0MiwtMzE3ODkwMDY1LDE3OTQ4NDY4OTksLTM3MzM5MTA4
-OSwtMTExNDY4Mjk1N119
+eyJoaXN0b3J5IjpbLTIxMzU2NzM1MzEsNTg4MDQzNTU5LDE0OT
+c0MTY2NDIsLTMxNzg5MDA2NSwxNzk0ODQ2ODk5LC0zNzMzOTEw
+ODksLTExMTQ2ODI5NTddfQ==
 -->
