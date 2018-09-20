@@ -28,9 +28,13 @@
 Web表单及交互：
 ```<input>(不是新元素，但增加了很多类型)、<datalist>、<keygen>、<meter>、<progress>、<command>、<menu>、<output>```
 音频、视频及插件：
-```<audio>、<video>、<source>、<em```
+```<audio>、<video>、<source>、<embed>(以前就支持，但现在正式列入规范)```
+Canvas：
+```<canvas>```
+非英语支持：
+```<bdo>、<```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg2MzU3MDUsNTg4MDQzNTU5LDE0OT
-c0MTY2NDIsLTMxNzg5MDA2NSwxNzk0ODQ2ODk5LC0zNzMzOTEw
-ODksLTExMTQ2ODI5NTddfQ==
+eyJoaXN0b3J5IjpbMTkwMDE2MDAxMyw1ODgwNDM1NTksMTQ5Nz
+QxNjY0MiwtMzE3ODkwMDY1LDE3OTQ4NDY4OTksLTM3MzM5MTA4
+OSwtMTExNDY4Mjk1N119
 -->
