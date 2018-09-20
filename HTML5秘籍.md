@@ -7,7 +7,7 @@ HTML5秘籍/进度P11
 
 ``` HTML  
 <!DOCTYPE HTML>  
-<html>  
+<html lang="en">  
 <head>  
 <title>Examole html page</title>  
 <meta charset="utf-8" />  
@@ -22,5 +22,6 @@ HTML5秘籍/进度P11
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzM5MTA4OSwtMTExNDY4Mjk1N119
+eyJoaXN0b3J5IjpbMTc5NDg0Njg5OSwtMzczMzkxMDg5LC0xMT
+E0NjgyOTU3XX0=
 -->
