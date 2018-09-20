@@ -1,4 +1,4 @@
-HTML秘籍/进度P11
+HTML5秘籍/进度P11
 ###  阅读笔记：
 
 > 在编写html时， 引用本地javascript时，时不时弹出“为帮助保护您的安全，Internet Explorer 已经限制此文件显示可能访问您计算机的活动内容。单击此处查看选项…” 框。 
@@ -20,5 +20,5 @@ HTML秘籍/进度P11
 </html>  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTI2ODk2XX0=
+eyJoaXN0b3J5IjpbLTExMTQ2ODI5NTcsMTI2NTI2ODk2XX0=
 -->
